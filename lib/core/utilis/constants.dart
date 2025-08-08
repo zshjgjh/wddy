@@ -1,0 +1,17 @@
+const kSupabaseUrl='https://sagguoazumgzbxzdfkfc.supabase.co';
+const kSupabaseKey='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNhZ2d1b2F6dW1nemJ4emRma2ZjIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczOTc3MzMwMCwiZXhwIjoyMDU1MzQ5MzAwfQ.76MFjBR_2woEITaKfsXFITx92cL-5lt051vdCiIi2MY';
+const kImagesStorage='images';
+const kProductStorage='products';
+const kReviews='reviews';
+const kIsOnBoardingViewSeen='isOnBoardingSeen';
+const kUsers='users';
+const kSaveUserLocally='user';
+const kSaveAddressLocally='address';
+const kSearchHistory='search';
+const kVapidKey='BChc-T2PatzYMxB9bkzKr-tsRhfQlg6WghQUQt4oxULfNtKjFloONGAcVYbE59JdgD5VfeL_3l4cd_2COIRH2SQ';
+const kToken='tokens';
+const kSupabaseAccessToken='sbp_c7c3b6a006d816bb52cc587f97fd45eaadcf357a';
+const kOneSignalAppID='74760d97-3c4d-4ab9-8e69-24e768f6138d';
+const kOrders='orders';
+const kOrderedProduct='orderedProducts';
+const kCards="cards";
