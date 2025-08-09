@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133233021863",
+    "project_id": "wddy-df6f1",
+    "storage_bucket": "wddy-df6f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133233021863:android:d9034e4e161a595742dc82",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2RtA6jzyIYjt3CQYlJWRFkmNoRmqxDc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
